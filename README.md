@@ -1,11 +1,11 @@
 ### Author: Urvesh Devani ###
 
-Code in the notebook looks at the historical tweets from past.
-Different limits can be set by using max_id and since_id each time running the program.
+Code in the notebook looks at the historical tweets with specific hashtags.
+Different limits can be set by using max_id and since_id each time before running the program.
 
 Explanation of Different Result files:
 
-data :- All the data of unique users who wrote tweets with specific hashtags 
+data :- All the data of unique users who wrote tweets with specific hashtags
 data_contact:- Data where email_ID of user is available in their bio
 data_influencer:- Data of unique users with specific hashtags who have 1000-50000 followers
 
